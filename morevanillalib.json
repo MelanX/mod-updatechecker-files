@@ -2,13 +2,14 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/morevanillalib",
   "promos": {
     "1.15.2-latest": "1.2.4",
-    "1.16.1-latest": "1.2.7"
+    "1.16.1-latest": "1.2.8",
+    "1.16.2-latest": "1.2.10"
   },
   "1.16.2": {
     "1.2.10": "port to 1.16.2"
   },
   "1.16.1": {
-    "1.2.8": "increased durability for hammers/excavators\ndurability multiplier configurable now"
+    "1.2.8": "increased durability for hammers/excavators\ndurability multiplier configurable now",
     "1.2.7": "Fix crash with jei when tags are empty",
     "1.2.6": "Fix taking 19 durability for excavators/hammers instead of 9",
     "1.2.5": "Port to 1.16.1"
