@@ -8,6 +8,7 @@
   "1.16.1": {
     "1.3.1": "fix 16384k fluid storage part recipe",
     "1.3": "port to 1.16.1\nremove config"
+  },
   "1.15.2": {
     "1.2.2": "Changed imports to refined storages new package name",
     "1.2.1": "Added translations for: German, Spanish, French, Japanese, Korean, Dutch, Portuguese, Russian and Chinese (thanks to TheDirectorX)",
