@@ -1,0 +1,18 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/botanical-machinery/",
+  "promos": {
+    "1.15.2-latest": "0.1",
+    "1.16.1-latest": "0.1",
+    "1.16.2-latest": "0.1"
+  },
+
+  "1.16.2": {
+    "0.1": "Port to 1.16.2"
+  },
+  "1.16.1": {
+    "0.1": "Port to 1.16.1"
+  },
+  "1.15.2": {
+    "0.1": "Initial release"
+  }
+}
