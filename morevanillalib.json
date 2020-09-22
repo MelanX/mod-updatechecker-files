@@ -2,13 +2,21 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/morevanillalib",
   "promos": {
     "1.15.2-latest": "1.2.4",
-    "1.16.1-latest": "1.2.8",
-    "1.16.2-latest": "1.2.10"
+    "1.16.1-latest": "1.2.11",
+    "1.16.2-latest": "1.2.13",
+    "1.16.3-latest": "1.2.13"
+  },
+  "1.16.3": {
+    "1.2.13": "Fix shulker box loses its content/Mekanism Digital Miner will just be destroyed"
   },
   "1.16.2": {
+    "1.2.13": "Fix shulker box loses its content/Mekanism Digital Miner will just be destroyed",
+    "1.2.12": "fix a bug for excavator mod",
+    "1.2.11": "fixed crash on world creation/joining existing world",
     "1.2.10": "port to 1.16.2"
   },
   "1.16.1": {
+    "1.2.11": "Fix shulker box loses its content/Mekanism Digital Miner will just be destroyed",
     "1.2.8": "increased durability for hammers/excavators\ndurability multiplier configurable now",
     "1.2.7": "Fix crash with jei when tags are empty",
     "1.2.6": "Fix taking 19 durability for excavators/hammers instead of 9",
