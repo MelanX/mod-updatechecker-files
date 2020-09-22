@@ -3,9 +3,13 @@
   "promos": {
     "1.15.2-latest": "0.1",
     "1.16.1-latest": "0.1",
-    "1.16.2-latest": "0.1"
+    "1.16.2-latest": "0.1",
+    "1.16.3-latest": "0.1.1"
   },
 
+  "1.16.3": {
+    "0.1.1": "Fixed rendering for Alfheim Market\nButtons play sounds when clicking"
+  },
   "1.16.2": {
     "0.1": "Port to 1.16.2"
   },
@@ -13,6 +17,7 @@
     "0.1": "Port to 1.16.1"
   },
   "1.15.2": {
+    "0.1.1": "Buttons play sounds when clicking",
     "0.1": "Initial release"
   }
 }
