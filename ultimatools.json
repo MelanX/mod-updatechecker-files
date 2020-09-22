@@ -1,0 +1,19 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/skyblock-ultima-tools/",
+  "promos": {
+    "1.16.1-latest": "1.4",
+    "1.16.2-latest": "1.4",
+    "1.16.3-latest": "1.4"
+  },
+
+  "1.16.3": {
+    "1.4": "ultima fighter generates a random ore from forge:ores\nores for ore cycle now configurable\nanimals for random animal now configurable\nincreased default cooldowns\ncooldowns now configurable\ncooldowns are now like the enderpearl cooldown\nremoved enchantability from crystals\nadded jei descriptions"
+  },
+  "1.16.2": {
+    "1.4": "ultima fighter generates a random ore from forge:ores\nores for ore cycle now configurable\nanimals for random animal now configurable\nincreased default cooldowns\ncooldowns now configurable\ncooldowns are now like the enderpearl cooldown\nremoved enchantability from crystals\nadded jei descriptions",
+    "1.3": "Port to 1.16.2 (noeppi-noeppi)"
+  },
+  "1.16.1": {
+    "1.4": "ultima fighter generates a random ore from forge:ores\nores for ore cycle now configurable\nanimals for random animal now configurable\nincreased default cooldowns\ncooldowns now configurable\ncooldowns are now like the enderpearl cooldown\nremoved enchantability from crystals\nadded jei descriptions"
+  }
+}
