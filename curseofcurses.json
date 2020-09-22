@@ -2,11 +2,15 @@
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/curse-of-curses/",
   "promos": {
     "1.15.2-latest": "1.0",
-	"1.16.1-latest": "1.0"
+    "1.16.1-latest": "1.0",
+    "1.16.2-latest": "1.1"
   },
-  
+  "1.16.2": {
+    "1.1": "fixed bug with too many curses\nadded config for curse amount per item\nadded config for start/stop time\nadded config for one or more items being enchanted per curse time\nadded config for skipping night applies curse to sleeper\nadded config for blacklist\nadded config for times per night"
+  },
   "1.16.1": {
-	"1.0": "Port to 1.16"
+    "1.1": "fixed bug with too many curses\nadded config for curse amount per item\nadded config for start/stop time\nadded config for one or more items being enchanted per curse time\nadded config for skipping night applies curse to sleeper\nadded config for blacklist\nadded config for times per night",
+    "1.0": "Port to 1.16"
   },
   "1.15.2": {
     "1.0": "Initial release"
