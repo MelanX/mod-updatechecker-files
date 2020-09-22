@@ -15,6 +15,7 @@
     "1.5": "Initial port to 1.15"
   },
   "1.16.1": {
+    "1.5.3": "fix server crash\nfix knife being consumed",
     "1.5.2": "added seeds to forges seed tag\nadded immersive engineering support",
     "1.5.1": "port to 1.16.1"
   }
