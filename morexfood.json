@@ -3,7 +3,8 @@
   "promos": {
     "1.14.4-latest": "1.5.1",
     "1.15.2-latest": "1.5.2",
-    "1.16.1-latest": "1.5.3"
+    "1.16.1-latest": "1.5.3",
+    "1.16.3-latest": "1.5.4"
   },
   "1.14.4": {
     "1.5.1": "added immersive engineering garden cloche support\nnew textures by sireisenblut",
@@ -18,5 +19,8 @@
     "1.5.3": "fix server crash\nfix knife being consumed",
     "1.5.2": "added seeds to forges seed tag\nadded immersive engineering support",
     "1.5.1": "port to 1.16.1"
+  },
+  "1.16.3": {
+    "1.5.4": "Port to 1.16.3"
   }
 }
