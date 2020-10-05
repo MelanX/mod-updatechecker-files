@@ -11,6 +11,7 @@
     "1.2.13": "Fix shulker box loses its content/Mekanism Digital Miner will just be destroyed"
   },
   "1.16.2": {
+    "1.2.14": "Fix incompatibility with Apotheosis",
     "1.2.13": "Fix shulker box loses its content/Mekanism Digital Miner will just be destroyed",
     "1.2.12": "fix a bug for excavator mod",
     "1.2.11": "fixed crash on world creation/joining existing world",
