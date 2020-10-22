@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/analyzer/",
+  "promos": {
+    "1.16.3-latest": "1.0.12"
+  },
+
+  "1.16.3": {
+    "1.0.12": "fix NPE crash when placing refinery - MelanX\nadd sound to lang file - MelanX\nadd german translation - MelanX\nadded information to jei - MelanX\nadded \"this\" - MelanX"
+  }
+}
