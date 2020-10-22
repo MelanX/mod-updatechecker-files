@@ -4,10 +4,11 @@
     "1.15.2-latest": "0.1",
     "1.16.1-latest": "0.1",
     "1.16.2-latest": "0.1",
-    "1.16.3-latest": "0.1.1"
+    "1.16.3-latest": "0.2.1"
   },
 
   "1.16.3": {
+    "0.2": "remove deobf file from uploading to curse - MelanX\nchange jenkins order to sync version of jenkins and curse - MelanX\nfix typo mentioned in #34 - MelanX\nadd libx as required dependency for curse - MelanX\nincrease version - MelanX\nadd curseforge auto-upload - MelanX\nprovided zhcn.json (#36) - Fodothjinzi89\nUse LibX (#38) - noeppi_noeppi\n",
     "0.1.1": "Fixed rendering for Alfheim Market\nButtons play sounds when clicking"
   },
   "1.16.2": {
