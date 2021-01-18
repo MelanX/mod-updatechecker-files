@@ -1,0 +1,15 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/yellow-snow",
+  "promos": {
+    "1.16.4-latest": "1.0.2",
+    "1.16.5-latest": "1.0.2"
+  },
+  "1.16.5": {
+    "1.0.2": "placing pee isn't nice\nchanged release type to beta"
+  },
+  "1.16.4": {
+    "1.0.2": "placing pee isn't nice\nchanged release type to beta",
+    "1.0.1": "add naughty or nice to curse optionals\nremoved recipe to crafting block in balls\ndon't eat yellow snow\nIt's nice to remove peed snow\n",
+    "1.0.0": "Initial release"
+  }
+}
