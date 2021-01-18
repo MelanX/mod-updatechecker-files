@@ -4,11 +4,21 @@
     "1.15.2-latest": "0.1",
     "1.16.1-latest": "0.1",
     "1.16.2-latest": "0.1",
-    "1.16.3-latest": "0.2.1"
+    "1.16.3-latest": "0.2.1",
+    "1.16.4-latest": "0.3.3",
+    "1.16.5-latest": "0.3.3"
   },
-
+  "1.16.5": {
+    "0.3.3": "add libx to bug report template - MelanX"
+  },
+  "1.16.4": {
+    "0.3.3": "add libx to bug report template - MelanX",
+    "0.3.2": "add nbt to pick block in creative - MelanX\nadd issue templates - MelanX\nCloses #29 - noeppi_noeppi",
+    "0.3.1": "changed buttons texture to fit in 1.15+ style - MelanX",
+    "0.3.0": "update version to 1.16.4 - MelanX\nfix infinite mana bug - MelanX\nterra plate recipes (#40) - MelanX"
+  },
   "1.16.3": {
-    "0.2": "remove deobf file from uploading to curse - MelanX\nchange jenkins order to sync version of jenkins and curse - MelanX\nfix typo mentioned in #34 - MelanX\nadd libx as required dependency for curse - MelanX\nincrease version - MelanX\nadd curseforge auto-upload - MelanX\nprovided zhcn.json (#36) - Fodothjinzi89\nUse LibX (#38) - noeppi_noeppi\n",
+    "0.2.1": "remove deobf file from uploading to curse - MelanX\nchange jenkins order to sync version of jenkins and curse - MelanX\nfix typo mentioned in #34 - MelanX\nadd libx as required dependency for curse - MelanX\nincrease version - MelanX\nadd curseforge auto-upload - MelanX\nprovided zhcn.json (#36) - Fodothjinzi89\nUse LibX (#38) - noeppi_noeppi\n",
     "0.1.1": "Fixed rendering for Alfheim Market\nButtons play sounds when clicking"
   },
   "1.16.2": {
