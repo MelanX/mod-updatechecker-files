@@ -1,0 +1,24 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/skyblock-builder/",
+  "promos": {
+    "1.16.4-latest": "1.0.9",
+    "1.16.5-latest": "1.0.9"
+  },
+
+  "1.16.5": {
+    "1.0.9": "add command for leaving your current team as non-op player - MelanX\nadd issue templates on github and improve \"wiki\" - MelanX\nadd command to create and join a team (useful for servers) - MelanX\nprevent commands from being used in non-skyblock worlds - MelanX\nplayers drop all their items when leaving a team - MelanX\nfix overworld on servers - MelanX\nadd ability to invite users and they can accept + fix some joining/leaving issues (new world should be generated) - MelanX",
+    "1.0.8": "fix end island not generating correctly - MelanX\nmake disable bastions and nether fortress be configurable - MelanX\nchange config paths -> new config required - MelanX\nadd void end closes #4 - MelanX\nfix some structures still being generated - MelanX\nadd config for generating stronghold only closes #3 - MelanX\nadd config for spawn height - MelanX\n",
+    "1.0.7": "add config for spawn direction - MelanX\nfix structure generation closes #1 - MelanX\nfix teleportation to spawn when rejoining and still in no team closes #2 - MelanX",
+    "1.0.6": "change release type to \"beta\" - MelanX\nadjust clear command to only clear one team -> all players will be removed - MelanX\nfix players which aren't online are not being teleported - MelanX",
+    "1.0.5": "fix players not being teleported to spawn when team was deleted - MelanX\nfix nether on server not being void - MelanX",
+    "1.0.4": "initial curseforge release + adding wiki - MelanX"
+  },
+  "1.16.4": {
+    "1.0.9": "add command for leaving your current team as non-op player - MelanX\nadd issue templates on github and improve \"wiki\" - MelanX\nadd command to create and join a team (useful for servers) - MelanX\nprevent commands from being used in non-skyblock worlds - MelanX\nplayers drop all their items when leaving a team - MelanX\nfix overworld on servers - MelanX\nadd ability to invite users and they can accept + fix some joining/leaving issues (new world should be generated) - MelanX",
+    "1.0.8": "fix end island not generating correctly - MelanX\nmake disable bastions and nether fortress be configurable - MelanX\nchange config paths -> new config required - MelanX\nadd void end closes #4 - MelanX\nfix some structures still being generated - MelanX\nadd config for generating stronghold only closes #3 - MelanX\nadd config for spawn height - MelanX\n",
+    "1.0.7": "add config for spawn direction - MelanX\nfix structure generation closes #1 - MelanX\nfix teleportation to spawn when rejoining and still in no team closes #2 - MelanX",
+    "1.0.6": "change release type to \"beta\" - MelanX\nadjust clear command to only clear one team -> all players will be removed - MelanX\nfix players which aren't online are not being teleported - MelanX",
+    "1.0.5": "fix players not being teleported to spawn when team was deleted - MelanX\nfix nether on server not being void - MelanX",
+    "1.0.4": "initial curseforge release + adding wiki - MelanX"
+  }
+}
