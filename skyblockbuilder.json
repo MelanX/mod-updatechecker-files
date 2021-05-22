@@ -1,11 +1,26 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/skyblock-builder/",
   "promos": {
-    "1.16.4-latest": "1.3.1",
-    "1.16.5-latest": "1.3.1"
+    "1.16.4-latest": "1.5.4",
+    "1.16.5-latest": "1.5.4"
   },
 
   "1.16.5": {
+    "1.5.4": "fix template on server not loaded - YOU SHOULD DELETE world/data/skyblock_template.dat (if existing) - MelanX",
+    "1.5.3": "fix removed templates will not be removed from template list when reloading - MelanX\nadd default schematic \"template.nbt\" to template list - MelanX\nadd tooltip for saving schematic - MelanX",
+    "1.5.2": "fix server crash - MelanX",
+    "1.5.1": "add config for island offset - MelanX\nadd ability to set multiple templates and users can choose one - MelanX\nfix bounding box rendering when too far away from spawn - MelanX",
+    "1.5.0": "add ability to export current spawns - MelanX\nadd ability to edit spawn spawns for players with permission level > 1 - MelanX\nfix spawning on blocks with no collision - MelanX\nadd LibX as required dependency - MelanX\nadd item to save structures - MelanX",
+    "1.4.7": "fix stronghold being generated even if not on whitelist - MelanX",
+    "1.4.6": "fix new teleport to spawn preventing code - MelanX",
+    "1.4.5": "add compat option to disable teleport to spawn on world join - MelanX",
+    "1.4.4": "fix some structures and features ignore whitelist - MelanX",
+    "1.4.3": "- fix nether and end structures are being generated and don't care about whitelist - MelanX\n- fix locate command takes forever when structure not whitelisted - MelanX\n- remove option to use \"custom_skyblock\" in `server.properties`. Use \"skyblockbuilder:custom_skyblock\" instead - MelanX",
+    "1.4.2": "add config to spawn in other dimensions - MelanX",
+    "1.4.1": "fix log spamming and lags and biome always ocean - MelanX",
+    "1.4.0": "add ability to set \"wildcards\" for whitelist - MelanX\nHopefully fix the structures and features now - noeppi_noeppi\nMaybe fix the structures and features. Not tested - noeppi_noeppi\nMerge remote-tracking branch 'noeppi-noeppi/justletmepushnowskateIEH' into 1.16.x - MelanX\nMinor improvement in the code in WorldUtil.java - noeppi_noeppi\nFix that skyblock commands were sometimes unavailable in the nether and completely hides the skyblock command when another mod disables team management. - noeppi_noeppi\nfix NullPointerException - MelanX",
+    "1.3.3": "change methods from being protected to public to let other mods use my teams - MelanX",
+    "1.3.2": "fix crash on server with surface settings - MelanX",
     "1.3.1": "fix crash on first startup - MelanX",
     "1.3.0": "fix javadoc errors - MelanX\nfix trees and ores not generating in nether and end when default should be used - MelanX\nChange config for world settings to set a whitelist for structures and features (#18) - MelanX",
     "1.2.0": "add javadoc to the events - MelanX\nadd method to disable all team management functionality for other mods - MelanX\njoin requests can now be enabled/disabled - MelanX\nchange location of Team and SkyblockSavedData, made some methods protected - MelanX\nadd ability to send join requests to teams - MelanX\nsend feedback to whole team for renaming, joining, leaving, inviting - MelanX\nadd command to decline invitations - MelanX\nadd config to set island distance and biome range (both values should match but they don't have to) - MelanX",
@@ -29,6 +44,21 @@
     "1.0.4": "initial curseforge release + adding wiki - MelanX"
   },
   "1.16.4": {
+    "1.5.4": "fix template on server not loaded - YOU SHOULD DELETE world/data/skyblock_template.dat (if existing) - MelanX",
+    "1.5.3": "fix removed templates will not be removed from template list when reloading - MelanX\nadd default schematic \"template.nbt\" to template list - MelanX\nadd tooltip for saving schematic - MelanX",
+    "1.5.2": "fix server crash - MelanX",
+    "1.5.1": "add config for island offset - MelanX\nadd ability to set multiple templates and users can choose one - MelanX\nfix bounding box rendering when too far away from spawn - MelanX",
+    "1.5.0": "add ability to export current spawns - MelanX\nadd ability to edit spawn spawns for players with permission level > 1 - MelanX\nfix spawning on blocks with no collision - MelanX\nadd LibX as required dependency - MelanX\nadd item to save structures - MelanX",
+    "1.4.7": "fix stronghold being generated even if not on whitelist - MelanX",
+    "1.4.6": "fix new teleport to spawn preventing code - MelanX",
+    "1.4.5": "add compat option to disable teleport to spawn on world join - MelanX",
+    "1.4.4": "fix some structures and features ignore whitelist - MelanX",
+    "1.4.3": "- fix nether and end structures are being generated and don't care about whitelist - MelanX\n- fix locate command takes forever when structure not whitelisted - MelanX\n- remove option to use \"custom_skyblock\" in `server.properties`. Use \"skyblockbuilder:custom_skyblock\" instead - MelanX",
+    "1.4.2": "add config to spawn in other dimensions - MelanX",
+    "1.4.1": "fix log spamming and lags and biome always ocean - MelanX",
+    "1.4.0": "add ability to set \"wildcards\" for whitelist - MelanX\nHopefully fix the structures and features now - noeppi_noeppi\nMaybe fix the structures and features. Not tested - noeppi_noeppi\nMerge remote-tracking branch 'noeppi-noeppi/justletmepushnowskateIEH' into 1.16.x - MelanX\nMinor improvement in the code in WorldUtil.java - noeppi_noeppi\nFix that skyblock commands were sometimes unavailable in the nether and completely hides the skyblock command when another mod disables team management. - noeppi_noeppi\nfix NullPointerException - MelanX",
+    "1.3.3": "change methods from being protected to public to let other mods use my teams - MelanX",
+    "1.3.2": "fix crash on server with surface settings - MelanX",
     "1.3.1": "fix crash on first startup - MelanX",
     "1.3.0": "fix javadoc errors - MelanX\nfix trees and ores not generating in nether and end when default should be used - MelanX\nChange config for world settings to set a whitelist for structures and features (#18) - MelanX",
     "1.2.0": "add javadoc to the events - MelanX\nadd method to disable all team management functionality for other mods - MelanX\njoin requests can now be enabled/disabled - MelanX\nchange location of Team and SkyblockSavedData, made some methods protected - MelanX\nadd ability to send join requests to teams - MelanX\nsend feedback to whole team for renaming, joining, leaving, inviting - MelanX\nadd command to decline invitations - MelanX\nadd config to set island distance and biome range (both values should match but they don't have to) - MelanX",
