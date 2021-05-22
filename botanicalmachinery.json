@@ -5,14 +5,19 @@
     "1.16.1-latest": "0.1",
     "1.16.2-latest": "0.1",
     "1.16.3-latest": "0.2.1",
-    "1.16.4-latest": "0.3.3",
-    "1.16.5-latest": "0.3.4"
+    "1.16.4-latest": "0.4.0",
+    "1.16.5-latest": "0.4.0"
   },
   "1.16.5": {
+    "0.4.0": "delete a generated file. idk why it is being generated - MelanX\nincrease version - MelanX\nfix agglomeration click area - MelanX\nchange configs to LibX configs - MelanX\nuse annotations to register blocks/items - MelanX\nchange release type to release - MelanX\nfix machines not being in JEI recipe category as icon and add click area for terra plate recipes - MelanX",
+    "0.3.5": "Update LibX - noeppi_noeppi",
     "0.3.4": "Minimal changes to the mechanical apothecary - noeppi_noeppi\nadd russian translation by AndrewFenriz - MelanX\nadd 1.16.5 tag for curseforge - MelanX",
     "0.3.3": "add libx to bug report template - MelanX"
   },
   "1.16.4": {
+    "0.4.0": "delete a generated file. idk why it is being generated - MelanX\nincrease version - MelanX\nfix agglomeration click area - MelanX\nchange configs to LibX configs - MelanX\nuse annotations to register blocks/items - MelanX\nchange release type to release - MelanX\nfix machines not being in JEI recipe category as icon and add click area for terra plate recipes - MelanX",
+    "0.3.5": "Update LibX - noeppi_noeppi",
+    "0.3.4": "Minimal changes to the mechanical apothecary - noeppi_noeppi\nadd russian translation by AndrewFenriz - MelanX\nadd 1.16.5 tag for curseforge - MelanX",
     "0.3.3": "add libx to bug report template - MelanX",
     "0.3.2": "add nbt to pick block in creative - MelanX\nadd issue templates - MelanX\nCloses #29 - noeppi_noeppi",
     "0.3.1": "changed buttons texture to fit in 1.15+ style - MelanX",
